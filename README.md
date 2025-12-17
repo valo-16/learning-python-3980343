@@ -3,6 +3,11 @@ This is the repository for the LinkedIn Learning course `Learning Python`. The f
 
 ![lil-thumbnail-url]
 
+## Resources
+
+Github's Codespaces
+CoderPad
+
 ## Course Description
 
 <p>Python—the popular and highly-readable object-oriented language—is both powerful and relatively easy to learn. Whether you're new to programming or an experienced developer, this course can help you get started with Python. Joe Marini provides an overview of the installation process, basic Python syntax, and an example of how to construct and run a simple Python program. Learn to work with dates and times, read and write files, and retrieve and parse JSON and XML data from the web.</p>
