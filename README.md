@@ -5,8 +5,8 @@ This is the repository for the LinkedIn Learning course `Learning Python`. The f
 
 ## Resources
 
-Github's Codespaces
-CoderPad
+- Github's Codespaces
+- CoderPad
 
 ## Course Description
 
